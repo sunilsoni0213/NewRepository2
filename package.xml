@@ -257,6 +257,7 @@
         <members>Case.Priority</members>
         <members>Case.Product__c</members>
         <members>Case.Reason</members>
+        <members>Case.Rollback__c</members>
         <members>Case.SLAViolation__c</members>
         <members>Case.SourceId</members>
         <members>Case.Status</members>
